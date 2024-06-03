@@ -228,5 +228,4 @@ Steps:
     3. Enter 255 characters in the Last Name field.
     4. Attempt to submit the form.
 Expected Result: The form should either accept the input or display a message if the character limit is exceeded.
-These additional test cases should help ensure thorough validation and functionality of the form.
 
