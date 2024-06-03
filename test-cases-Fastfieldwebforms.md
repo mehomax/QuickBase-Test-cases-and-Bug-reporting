@@ -99,8 +99,6 @@ Steps:
     2. Select a specific date and time.
 Expected Result: The selected date and time should be displayed in the Date/Time field.
 These test cases cover various aspects of the form to ensure it functions correctly and validates inputs as expected.
-още искам
-Разбира се, ето още тестови случаи за формата "Craft Demo Form @Quickbase - Mehdi Qklupov":
 
 
 Test Case 11: Verify Description Field Character Limit
