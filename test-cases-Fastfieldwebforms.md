@@ -28,8 +28,8 @@ Steps:
     4. Enter "Hristo.Krastev@abv.com" in the e-mail field.
     5. Enter "Test description for the form" in the Description field.
     6. Enter "30" in the Age field.
-    7. Enter "01/01/1990" in the Date of birth field.
-    8. Select a rating (e.g., 4 out of 5).
+    7. Enter "08/04/1999" in the Date of birth field.
+    8. Select a rating (e.g., 1 out of 7).
     9. Verify that the Timer starts at "00:00:00".
     10. Select the current date and time in the Date/Time field.
     11. Toggle the Switch on and off.
