@@ -12,7 +12,7 @@ Steps:
         ◦ Date of birth
         ◦ Rating
         ◦ Timer
-        ◦ Date/Time
+        ◦ Date/Timeback
         ◦ Switch
         ◦ Single Photo
         ◦ Signature
@@ -234,9 +234,18 @@ Test Case 26: Verify Form Save Functionality
 Objective: Ensure the entire form can save entered data when closing down the form when is not submit.
 Steps:
     1. Open the Form.
-    2. Fill out all fields with valid data.
+    2. Fill out all fields with valid data.back
     3. Closing the browser.
     4. Open the Form and see the "Continue In-Progress form" field.
     5. Click Continue and see that the data is where it should be.
 Expected Result: The form should save the entered data when the browser is closed.
+
+
+Тest Case 27: Check the controls ← ☰ ◫ →
+Objective: Ensure the controls work the way they were intended.
+Steps:
+    1. Check the arrows if they work.
+    2. Check menu button work.
+    3. Check the jump to button work.
+Expected Result: The controls should work the way they were intended.
 
